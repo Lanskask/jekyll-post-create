@@ -29,6 +29,7 @@ TODO:
 
   - Enumeration (ENUM) for file formats 
   - Add Editing of: 
+
   ..* layout
   ..* categories
 
