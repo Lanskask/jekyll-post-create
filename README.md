@@ -5,7 +5,7 @@ Bash command script to create Jekyll post file with current date and time.
 Instalation
 -----------
 
-Just create folder you want to store this command (for example, your /opt/justCommands folder), clone this script to it, make this command runnable. 
+Just create folder you want to store this command (for example, your */opt/justCommands* folder), clone this script to it, make this command runnable. 
 
 ```bash
 sudo mkdir /opt/myCommands && \
@@ -28,7 +28,7 @@ TODO:
 ----
 
   - Enumeration (ENUM) for file formats 
-  - Add Editing of: 
+  - Add Editing of (with flags parametres): 
     * layout
     * categories
 
