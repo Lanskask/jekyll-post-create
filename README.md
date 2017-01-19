@@ -24,15 +24,14 @@ echo export PATH=\$MY_COMMANDS:\$PATH >> ~/.bashrc
 echo export MY_COMMANDS=/opt/myCommands >> ~/.bashrc
 ```
 
-P.S.
+TODO:
 ----
-Actually I haven't check all that I have written here, but it should work.
-
-TODO: 
 
   - Enumeration (ENUM) for file formats 
   - Add Editing of: 
-  ..- layout
-  ..- categories
+  ..* layout
+  ..* categories
 
-
+P.S.
+----
+Actually I haven't check all that I have written here, but it should work.
